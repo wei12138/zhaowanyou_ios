@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB53509E-F9DA-4E36-9A76-C36EFBF1FDDF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>找玩友</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>65DE5CF9-7839-4860-9222-BE08A70DBB49</key>
+		<string>https://github.com/wei12138/zhaowanyou_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>找玩友/找玩友.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>65DE5CF9-7839-4860-9222-BE08A70DBB49</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wei12138/zhaowanyou_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>65DE5CF9-7839-4860-9222-BE08A70DBB49</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65DE5CF9-7839-4860-9222-BE08A70DBB49</string>
+			<key>IDESourceControlWCCName</key>
+			<string>zhaowanyou_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
